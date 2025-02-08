@@ -32,3 +32,8 @@ plugins:
 # Permalinks
 permalink: /:year-:month-:day/:title
 paginate: 5
+
+collections:
+  books:
+    directory: /_collections/_books
+    output: true

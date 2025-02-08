@@ -10,7 +10,18 @@ layout: default
   {% endfor %}
 
   {% for post in paginator.posts %}
-    {% include catalogue_item.html %}
+  <div class="post">
+    <div class="post-info">
+      {% if page.date %}
+        </span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
+      {% endif %}
+    </div>
+
+    <h1 class="post-title">{{ page.title }}</h1>
+    <div class="post-line"></div>
+
+    {{ content }}
+  </div>
   {% endfor %}
 </div>
 

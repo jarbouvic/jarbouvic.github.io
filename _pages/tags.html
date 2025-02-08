@@ -9,12 +9,9 @@ permalink: /tags/
     <h2 class="tags-header-title">{{ page.title }}</h2>
     <div class="tags-header-line"></div>
   </div>
-  <div class="tags-clouds">
-    {% for tag in site.tags %}
-    <a href="#{{ tag[0] }}">{{ tag[0] }}</a>
-    {% endfor %}
+  <div>
+    Here is a list of things I’ve read, watched, done. 
   </div>
-  {% for tag in site.tags %}
   <div class="tags-item" id="{{ tag[0] }}">
     <svg
       class="tags-item-icon"
@@ -34,20 +31,19 @@ permalink: /tags/
       ></path>
       <line x1="7" y1="7" x2="7.01" y2="7"></line>
     </svg>
-    <h2 class="tags-item-label">{{ tag[0] }}</h2>
-    {% for post in tag[1] %}
+    <h2 class="tags-item-label">Books</h2>
+    {% for book in site.collections.books %}
     <a class="tags-post" href="{{ post.url | prepend: site.baseurl }}">
       <div>
-        <span class="tags-post-title">{{ post.title }}</span>
+        <span class="tags-post-title">{{ book.title }}</span>
         <div class="tags-post-line"></div>
       </div>
       <span class="tags-post-meta">
         <time datetime="{{ post.date }}">
-          {{ post.date | date:"%Y-%m-%d" }}
+          {{ book.date | date:"%Y-%m-%d" }}
         </time>
       </span>
     </a>
     {% endfor %}
   </div>
-  {% endfor %}
 </div>
