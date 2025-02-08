@@ -9,10 +9,7 @@ categories:
 tags:
 - france 
 ---
-
-{% img fancybox /images/gallery/2010-12-19-la-france-prise-en-otage/media_httpvidbergblog_ubqfg.gif.scaled1000.gif %}
-
-via [google.co.id](http://www.google.co.id/reader/view/feed/http%3A%2F%2Fxkcd.com%2Frss.xml?hl=en&at=lacNyEm-jQEoBLarLe3t0w#stream/feed%2Fhttp%3A%2F%2Fvidberg.blog.lemonde.fr%2Ffeed%2F)
+![[Pasted image 20250208122624.png]]
 
 Petite pensee pour la France sous la neige... 
 
