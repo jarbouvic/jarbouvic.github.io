@@ -1,24 +1,35 @@
 # Site settings
-title: "jarbouvic"
-description: > 
-Victor Moreau
+title: jarbouvic
+description: "Victor Moreau"
+baseurl: "/blog"
+url: "https://jarbouvic.github.io"
 
-author: Victor Moreau
-email: jarbouvic@gmail.com
-github_username: jarbouvic
+# Google Analytics
+google_analytics: UA—XXXXXXXX-X
 
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://jarbouvic.github.io" # the base hostname & protocol for your site
-
-google_analytics_id: UA-1111111111-1
-disqus_id:
+# Author
+author:
+  name: Victor Moreau
+  url: jarbouvic.github.io
+  email: jarbouvic@gmail.com
 
 # Build settings
-include: [_pages]
 markdown: kramdown
-permalink: /:year/:month/:title.html
+include:
+  - _pages
 
+# Assets
 sass:
-    style: compressed
+  sass_dir: _sass
+  style: compressed
 
-exclude: [vendor]
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  # - jemoji #Uncomment this to allow emoji in your post
+
+# Permalinks
+permalink: /:year-:month-:day/:title
+paginate: 5
