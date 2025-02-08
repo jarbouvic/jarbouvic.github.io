@@ -35,5 +35,4 @@ paginate: 5
 
 collections:
   books:
-    directory: /_collections/_books
     output: true
