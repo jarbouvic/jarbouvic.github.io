@@ -1,16 +1,10 @@
 ---
-title: "What if computers were this simple ?"
-
+title: What if computers were this simple ?
 date: 2007-10-18T11:34:00+00:00
-comments: false
-categories: 
-- tech
 tags:
-- grid computing
-- cranfield
+  - technology
+  - thoughts
 ---
-
-
 # What if computers were this simple ?
 
 ![](lightbulb.jpg.scaled1000.jpg)

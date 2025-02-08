@@ -1,17 +1,11 @@
 ---
-
-
 date: 2007-09-24T11:04:00+00:00
-comments: false
 languages:
-- fr
-categories: 
-- life
+  - fr
 tags:
-- cranfield
-title: "Départ pour Cranfield"
+  - thoughts
+title: Départ pour Cranfield
 ---
-
 16h, gare de Clermont, 3 sacs et une vague idée de l’endroit où je vais... Me voilà embarqué dans une nouvelle aventure, la peau moite, le coeur battant. Alors je fais mes adieux et je monte. Quelque part là, une impression de déjà vu, et puis le train part. Vichy, Moulin, Nevers, et moi je réfléchi à ce à quoi je devrais réfléchir à ce moment pour au final ne penser à rien et m’endormir. Enfin Paris se présente et je m’enfonce dans les profondeurs du métro. Deux correspondances et le temps de maudire le métro parisien et me voici dans la ligne de check-in d’Eurolines. Il est 21h, Olivier (mon ex-coloc, exilé lui aussi à Cranfield) se présente : "Salut, ça va?" et hop on est à Calais ! Tout va trop vite, à peine montés sur le ferry qu’on débarque à Londres. C’est étrange comme le temps peut parfois paraître élastique. Encore Bergson qui me joue des tours !
 
  Bref il est 4h30 du matin (soit 1h30 en avance sur l’horaire prévu) et il nous faut à présent nous rendre chez Manu. Il est trop tôt pour le métro mais la solution apparaît rapidement au coin de la rue sous la forme d’un bus rouge à 2 étages avec WiFi on board (étonnant, hein?). Je demande au chauffeur s’il peut nous emmener à (je regarde sur mes feuilles et choisit le premier nom de rue qui apparaît) Kensigton Trucmuche, il me répond quelque chose, nous demande £3.50 chacun et... nous embarquons. On peut vraiment faire n’importe quoi à 5h du mat’ ! Une dizaine de minutes plus tard, nous nous retrouvons évidemment seuls au milieu de nulle part et il nous faudra bien 45 minutes d’errance dans les rues de Londres pour finalement arriver à destination.

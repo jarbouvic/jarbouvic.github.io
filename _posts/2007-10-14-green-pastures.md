@@ -1,14 +1,10 @@
 ---
-
-
 date: 2007-10-14T21:36:00+00:00
-comments: false
-categories: 
-- life
 tags:
-- cranfield
-- uk
-title: "Green pastures"
+  - thoughts
+title: Green pastures
+languages:
+  - fr
 ---
 
  Toujours les mêmes gestes. La jambe droite. Puis la jambe gauche. Toujours. Sac sur le dos, mains sur le guidon, une impulsion et hop je décolle. L’asphalte glisse sous mes pieds, emportant avec lui les murs de briques de Mitchell Hall, le gazon soigné du cricket pitch et les hangars métalliques de l’université. La route s’allonge devant moi tandis que le souffle d’un bi-réacteur passe au dessus de ma tête pour terminer sa course devant un troupeau de moutons hagards. Au loin déjà, le tarmac étire ses 1800m de longueur dans un lit de feux multicolores.

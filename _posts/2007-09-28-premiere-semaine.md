@@ -1,13 +1,10 @@
 ---
-
-
 date: 2007-09-28T21:27:00+00:00
-comments: false
-categories: 
-- life
 tags:
-- cranfield
-title: "Première semaine à Cranfield"
+  - thoughts
+title: Première semaine à Cranfield
+languages:
+  - fr
 ---
  *Une semaine déjà... Il est temps pour moi de faire un premier bilan et de vous faire part de mes premières impressions.*
 
