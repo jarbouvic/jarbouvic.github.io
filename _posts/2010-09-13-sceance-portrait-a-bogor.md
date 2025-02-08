@@ -10,14 +10,14 @@ tags:
 - indonesia
 - islam
 ---
+![[20100911-095.jpg]]
 
-{% img fancybox /images/gallery/2010-09-13-sceance-portrait-a-bogor/20100911-095.jpg %}
-{% img fancybox /images/gallery/2010-09-13-sceance-portrait-a-bogor/20100911-099.jpg %}
-{% img fancybox /images/gallery/2010-09-13-sceance-portrait-a-bogor/20100911-110.jpg %}
-{% img fancybox /images/gallery/2010-09-13-sceance-portrait-a-bogor/20100911-112.jpg %}
-{% img fancybox /images/gallery/2010-09-13-sceance-portrait-a-bogor/20100911-115.jpg %}
+![[20100911-099.jpg]]
 
-[See the full gallery on
-Posterous](http://jarbouvic.posterous.com/sceance-portrait-a-bogor)
+![[20100911-110.jpg]]
+
+![[20100911-112.jpg]]
+
+![[20100911-115.jpg]]
 
 Scéance photo avec Imran, Irma et Mutti dans le jardin de Tante Lili à Bogor, le lendemain d'Idul Fitri.
