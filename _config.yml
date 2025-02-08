@@ -1,7 +1,6 @@
 # Site settings
 title: jarbouvic
 description: "Victor Moreau"
-baseurl: "/blog"
 url: "https://jarbouvic.github.io"
 
 # Google Analytics
