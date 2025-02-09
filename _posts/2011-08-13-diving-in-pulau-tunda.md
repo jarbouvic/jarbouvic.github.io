@@ -16,30 +16,30 @@ Le week-end dernier, nous sommes sorti de Jakarta pour partir plonger à Pulau T
 
  Pour la première plongée, nous n'allons de toute façon pas bien loin car Irma n'arrive pas à égaliser en descendant, sans doute surprise par le brouillard ambiant. Nous remontons au bout de 10 minutes. Après manger, nous repartons de plus belle. L'eau est surprenamment chaude, heureusement d'ailleurs car le moniteur n'a pas pris assez de combinaisons de plongée et je me retrouve donc à plonger en calebut! La descente est assez anarchique, chacun essayant de ne pas perdre de vue celui de devant en glissant sur la pente. L'eau est grise et s'obscurcit à vue d'oeil au fur et à mesure que nous nous enfoncons. Lorsque je regarde mon manomètre, nous sommes déjà à 32 mètres au lieu des 18 mètres autorisés! Pas étonnant qu'il fasse aussi sombre! Nous remontons donc à une profondeur plus raisonnable pour continuer à planner doucement dans cette soupe chaude, juste le temps de jouer avec quelques poissons clowns et d'entrapercevoir une raie se glisser sous moi...
  
-![](pulautunda-003.jpg)
+![](_media/pulautunda-003.jpg)
 
-![](pulautunda-006.jpg)
+![](_media/pulautunda-006.jpg)
 
-![](pulautunda-008.jpg)
+![](_media/pulautunda-008.jpg)
 
-![](pulautunda-010.jpg)
+![](_media/pulautunda-010.jpg)
 
-![](pulautunda-011.jpg)
+![](_media/pulautunda-011.jpg)
 
-![](pulautunda-012.jpg)
+![](_media/pulautunda-012.jpg)
 
-![](pulautunda-013.jpg)
+![](_media/pulautunda-013.jpg)
 
-![](pulautunda-014.jpg)
+![](_media/pulautunda-014.jpg)
 
-![](pulautunda-017.jpg)
+![](_media/pulautunda-017.jpg)
 
-![](pulautunda-018.jpg)
+![](_media/pulautunda-018.jpg)
 
-![](pulautunda-022.jpg)
+![](_media/pulautunda-022.jpg)
 
-![](pulautunda-024.jpg)
+![](_media/pulautunda-024.jpg)
 
-![](pulautunda-025.jpg)
+![](_media/pulautunda-025.jpg)
 
-![](pulautunda-031.jpg)
+![](_media/pulautunda-031.jpg)

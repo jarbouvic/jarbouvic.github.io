@@ -1,17 +1,10 @@
 ---
 date: "2008-01-22T12:43:00+00:00"
-draft: false
-
 title: "A response to all those Macbook Air skeptics"
-languages:
-- en
-categories:
-- tech
 tags:
+- tech
 - apple
-- macbook air
-- micro-computers
-- strategy
+- thoughts
 ---
 
 *Something was in the air*, indeed, in Apple’s 2008 Keynote. Oooos and Aaaaas mainly, as Steve Jobs revealed to an agog audience iPhone’s record market shares, free iTunes-related updates and the extraterrestrial Time Capsule. — *8Ok, now I can rent a movie on iTunes and watch it on my iPod, but hey! Steve, come on, enough of that, what’s in the air?* — Even watching the podcast at home, I could actually feel the atmosphere getting more and more electric as the show went on and on and on… and then… — *A Macbook Air? In an envelope? This is the coolest thing I’ve ever seen! Wait a minute, where’s the CD drive? Outside? Outside how? And the ethernet port? Outside too? Ok, so it must be cheap then? No?* — And the frantic cheering turned progressively into diffident scattered claps. — *Are they out of their mind? Who’s gonna buy that? Not me!* — Exactly! Not you! But don’t get frustrated, you are not the target, that’s all!

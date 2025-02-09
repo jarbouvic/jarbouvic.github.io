@@ -1,7 +1,8 @@
 ---
 date: 2007-10-14T21:36:00+00:00
 tags:
-  - thoughts
+  - bio
+  - cranfield
 title: Green pastures
 languages:
   - fr

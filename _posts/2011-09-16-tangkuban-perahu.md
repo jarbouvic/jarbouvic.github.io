@@ -18,24 +18,24 @@ La montée au sommet est on ne peut plus simple puisque la route monte jusqu'au 
 
 Bref petite balade du dimanche, faisable en tongs (évidemment), permettant de profiter de la fraicheur de l'air à 1600m d'altitude.
 
-![](DSC_6558.jpg)
+![](_media/DSC_6558.jpg)
 
-![](DSC_6575.jpg)
+![](_media/DSC_6575.jpg)
 
-![](DSC_6586.jpg)
+![](_media/DSC_6586.jpg)
 
-![](DSC_6599.jpg)
+![](_media/DSC_6599.jpg)
 
-![](DSC_6605.jpg)
+![](_media/DSC_6605.jpg)
 
-![](DSC_6623.jpg)
+![](_media/DSC_6623.jpg)
 
-![](DSC_6653.jpg)
+![](_media/DSC_6653.jpg)
 
-![](DSC_6678.jpg)
+![](_media/DSC_6678.jpg)
 
-![](DSC_6702.jpg)
+![](_media/DSC_6702.jpg)
 
-![](DSC_6715.jpg)
+![](_media/DSC_6715.jpg)
 
-![](DSC_6742.jpg)
+![](_media/DSC_6742.jpg)

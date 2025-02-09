@@ -1,7 +1,11 @@
 ---
 date: 2025-02-01
-title: "⭐️ ⭐️ Accelerate #architecture #IT"
-tags: architecture IT
+title: Accelerate
+tags:
+  - architecture
+  - IT
+layout: default
+rating: ⭐️ ⭐️
 ---
 Authors: Nicole Forsgren, Jez Humble, Gene Kim
 

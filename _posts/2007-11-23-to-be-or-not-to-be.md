@@ -1,14 +1,10 @@
 ---
-
 title: "To be or not to be"
-
 date: 2007-11-23T12:47:00+00:00
-comments: false
-categories: 
-- life
+languages: fr
 tags:
 - cranfield
-- university
+- bio
 ---
 
  Deux semaines de retard? Damn! Décidemment le service postale laisse à désirer! Difficile de poster de nouveaux articles sur mon blog dans de telles conditions! Encore la faute des grévistes en France! A moins que ma dernière livraison n’ait été perdue en même temps que les CD-ROMs de Revenue & Customs... Mmmmh...

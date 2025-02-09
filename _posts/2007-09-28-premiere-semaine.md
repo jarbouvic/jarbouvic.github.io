@@ -1,7 +1,8 @@
 ---
 date: 2007-09-28T21:27:00+00:00
 tags:
-  - thoughts
+  - bio
+  - cranfield
 title: Première semaine à Cranfield
 languages:
   - fr

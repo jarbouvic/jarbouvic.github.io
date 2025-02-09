@@ -1,14 +1,11 @@
 ---
-
 title: "The Big Durian"
-
 date: 2010-03-16T15:58:00+00:00
-comments: false
-categories: 
-- life
+languages: fr
 tags:
 - indonesia
 - jakarta
+- bio
 ---
 
  Me voici enfin de retour sur la toile après deux-trois semaines d’interruption forcée pour cause d’itinérance et de trou dans la couche Internet... Cette fois-ci c’est de Jakarta, et plus exactement de mon nouveau chez moi, la bien nommée Bona Vista Tower Dua, que j’écris ces quelques lignes. C’est parti donc pour une nouvelle vie d’expatrié sous le soleil indonésien! Nouveau climat, nouveaux décors, nouveau boulot, nouveaux amis mais toujours la même Irma, peut-être plus belle encore!

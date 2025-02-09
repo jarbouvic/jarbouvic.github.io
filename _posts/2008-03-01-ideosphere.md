@@ -1,12 +1,9 @@
 ---
 title: "Idéosphere"
-
 date: 2008-03-01T12:50:00+00:00
-comments: false
-categories: 
-- life
+langages: fr
 tags:
-- ideosphere
+- thoughts
 - cranfield
 ---
 

@@ -11,12 +11,12 @@ tags:
 - jakarta
 - nature
 ---
-![](20100807-001.jpg)
+![](_media/20100807-001.jpg)
 
-![](20100807-003.jpg)
+![](_media/20100807-003.jpg)
 
-![](20100807-004.jpg)
+![](_media/20100807-004.jpg)
 
-![](20100807-007.jpg)
+![](_media/20100807-007.jpg)
 
 Sortie au Zoo Rangunan à Jakarta, un dimanche après-midi. Flirt avec les *pelicans*, dialogue avec un *Gracula religiosa*, flashback préhistorique avec les *komodos*et jeux paresseux avec monsieur l'*Orang Hutan...*

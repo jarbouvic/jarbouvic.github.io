@@ -14,4 +14,4 @@ Je viens récemment de remarquer que les Indonésiens ont un sens de l’ironie 
 
 Et pour finir sur une petite touche d’ironie bien de chez nous, voici un article bien cassant sur les opérateurs de téléphonie français. Mais là, ils l’ont bien mérité ! 
  
-[http://h16free.com/2011/02/24/7125-mechant-skype-boutons-les-services-gratuits-hors-de-france](http://h16free.com/2011/02/24/7125-mechant-skype-boutons-les-services-gratuits-hors-de-france)
+[http://h16free.com/2011/02/24/7125-mechant-skype-boutons-les-services-gratuits-hors-de-france](_media/http://h16free.com/2011/02/24/7125-mechant-skype-boutons-les-services-gratuits-hors-de-france)

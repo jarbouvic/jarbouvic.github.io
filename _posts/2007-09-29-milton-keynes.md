@@ -3,6 +3,7 @@ title: Milton Keynes, ville nouvelle
 date: 2007-09-29T21:21:00+00:00
 tags:
   - cranfield
+  - bio
 ---
 
  Premier week-end in the UK. Il est temps de sortir découvrir le monde. A vrai dire, en l’espace de six jours je n’étais toujours pas sorti de l’enceinte du campus tant celui-ci est vaste et en totale autarcie. Je prend donc le bus pour Milton Keynes, la ville la plus proche, avec la vague intention d’y acheter un vélo (d’occasion si possible). J’avais préalablement été averti de la démesure de cette ville, mais arrivé à Central Milton Keynes le dépaysement a été total. Sortant tout juste de cette campagne pittoresque (veaux, vaches, moutons) qui entoure Cranfield, c’est face à des bâtiments modernes et imposants que je me retrouve cette fois nez à nez à la sortie du bus... Petite parenthèse d’histoire avant de continuer plus en avant :

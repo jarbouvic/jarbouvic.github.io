@@ -3,7 +3,8 @@ date: 2007-09-24T11:04:00+00:00
 languages:
   - fr
 tags:
-  - thoughts
+  - bio 
+  - cranfield
 title: Départ pour Cranfield
 ---
 16h, gare de Clermont, 3 sacs et une vague idée de l’endroit où je vais... Me voilà embarqué dans une nouvelle aventure, la peau moite, le coeur battant. Alors je fais mes adieux et je monte. Quelque part là, une impression de déjà vu, et puis le train part. Vichy, Moulin, Nevers, et moi je réfléchi à ce à quoi je devrais réfléchir à ce moment pour au final ne penser à rien et m’endormir. Enfin Paris se présente et je m’enfonce dans les profondeurs du métro. Deux correspondances et le temps de maudire le métro parisien et me voici dans la ligne de check-in d’Eurolines. Il est 21h, Olivier (mon ex-coloc, exilé lui aussi à Cranfield) se présente : "Salut, ça va?" et hop on est à Calais ! Tout va trop vite, à peine montés sur le ferry qu’on débarque à Londres. C’est étrange comme le temps peut parfois paraître élastique. Encore Bergson qui me joue des tours !

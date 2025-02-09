@@ -8,130 +8,130 @@ tags:
   - travel
 title: Karimun Jawa, 23-26 sept 2011
 ---
-![](DSC_7810.jpg)
+![](_media/DSC_7810.jpg)
 
-![](DSC_7877.jpg)
+![](_media/DSC_7877.jpg)
 
-![](DSC_7902.jpg)
+![](_media/DSC_7902.jpg)
 
-![](DSC_7905.jpg)
+![](_media/DSC_7905.jpg)
 
-![](DSC_7915.jpg)
+![](_media/DSC_7915.jpg)
 
-![](DSC_7919.jpg)
+![](_media/DSC_7919.jpg)
 
-![](DSC_7929.jpg)
+![](_media/DSC_7929.jpg)
 
-![](DSC_7943.jpg)
+![](_media/DSC_7943.jpg)
 
-![](DSC_7987.jpg)
+![](_media/DSC_7987.jpg)
 
-![](DSC_7998.jpg)
+![](_media/DSC_7998.jpg)
 
-![](DSC_8013.jpg)
+![](_media/DSC_8013.jpg)
 
-![](DSC_8023.jpg)
+![](_media/DSC_8023.jpg)
 
-![](DSC_8024.jpg)
+![](_media/DSC_8024.jpg)
 
-![](DSC_8033.jpg)
+![](_media/DSC_8033.jpg)
 
-![](DSC_8094.jpg)
+![](_media/DSC_8094.jpg)
 
-![](DSC_8096.jpg)
+![](_media/DSC_8096.jpg)
 
-![](DSC_8104.jpg)
+![](_media/DSC_8104.jpg)
 
-![](DSC_8108.jpg)
+![](_media/DSC_8108.jpg)
 
-![](DSC_8113.jpg)
+![](_media/DSC_8113.jpg)
 
-![](DSC_8134.jpg)
+![](_media/DSC_8134.jpg)
 
-![](DSC_8136.jpg)
+![](_media/DSC_8136.jpg)
 
-![](DSC_8144.jpg)
+![](_media/DSC_8144.jpg)
 
-![](DSC_8156.jpg)
+![](_media/DSC_8156.jpg)
 
-![](DSC_8169.jpg)
+![](_media/DSC_8169.jpg)
 
-![](DSC_8173.jpg)
+![](_media/DSC_8173.jpg)
 
-![](DSC_8189.jpg)
+![](_media/DSC_8189.jpg)
 
-![](DSC_8232.jpg)
+![](_media/DSC_8232.jpg)
 
-![](DSC_8237.jpg)
+![](_media/DSC_8237.jpg)
 
-![](DSC_8241.jpg)
+![](_media/DSC_8241.jpg)
 
-![](DSC_8262.jpg)
+![](_media/DSC_8262.jpg)
 
-![](DSC_8267.jpg)
+![](_media/DSC_8267.jpg)
 
-![](DSC_8276.jpg)
+![](_media/DSC_8276.jpg)
 
-![](DSC_8288.jpg)
+![](_media/DSC_8288.jpg)
 
-![](DSC_8296.jpg)
+![](_media/DSC_8296.jpg)
 
-![](DSC_8301.jpg)
+![](_media/DSC_8301.jpg)
 
-![](DSC_8308.jpg)
+![](_media/DSC_8308.jpg)
 
-![](DSC_8310.jpg)
+![](_media/DSC_8310.jpg)
 
-![](DSC_8318.jpg)
+![](_media/DSC_8318.jpg)
 
-![](DSC_8332.jpg)
+![](_media/DSC_8332.jpg)
 
-![](DSC_8333.jpg)
+![](_media/DSC_8333.jpg)
 
-![](DSC_8396.jpg)
+![](_media/DSC_8396.jpg)
 
-![](DSC_8407.jpg)
+![](_media/DSC_8407.jpg)
 
-![](DSC_8431.jpg)
+![](_media/DSC_8431.jpg)
 
-![](DSC_8450.jpg)
+![](_media/DSC_8450.jpg)
 
-![](DSC_8459.jpg)
+![](_media/DSC_8459.jpg)
 
-![](DSC_8475.jpg)
+![](_media/DSC_8475.jpg)
 
-![](DSC_8482.jpg)
+![](_media/DSC_8482.jpg)
 
-![](DSC_8492.jpg)
+![](_media/DSC_8492.jpg)
 
-![](DSC_8524.jpg)
+![](_media/DSC_8524.jpg)
 
-![](DSC_8531.jpg)
+![](_media/DSC_8531.jpg)
 
-![](DSC_8535.jpg)
+![](_media/DSC_8535.jpg)
 
-![](DSC_8540.jpg)
+![](_media/DSC_8540.jpg)
 
-![](DSC_8557.jpg)
+![](_media/DSC_8557.jpg)
 
-![](DSC_8572.jpg)
+![](_media/DSC_8572.jpg)
 
-![](DSC_8595.jpg)
+![](_media/DSC_8595.jpg)
 
-![](DSC_8656.jpg)
+![](_media/DSC_8656.jpg)
 
-![](DSC_8667.jpg)
+![](_media/DSC_8667.jpg)
 
-![](DSC_8677.jpg)
+![](_media/DSC_8677.jpg)
 
-![](DSC_8700.jpg)
+![](_media/DSC_8700.jpg)
 
-![](DSC_8706.jpg)
+![](_media/DSC_8706.jpg)
 
-![](DSC_8713.jpg)
+![](_media/DSC_8713.jpg)
 
-![](DSC_8734.jpg)
+![](_media/DSC_8734.jpg)
 
-![](DSC_8744.jpg)
+![](_media/DSC_8744.jpg)
 
-![](DSC_8819.jpg)
+![](_media/DSC_8819.jpg)

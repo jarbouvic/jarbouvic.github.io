@@ -15,8 +15,8 @@ Excellents petits sketchs sur l'Auvergne. J'ai bien rigolé alors je vous les fa
 
 Vous pourrez trouver tous les autres sur les liens suivants:
 
-[http://www.auvergnelife.tv/urbanophiles/saison1/](http://www.auvergnelife.tv/urbanophiles/saison1/)\
+[http://www.auvergnelife.tv/urbanophiles/saison1/](_media/http://www.auvergnelife.tv/urbanophiles/saison1/)\
 
-[http://www.auvergnelife.tv/urbanophiles/saison2/](http://www.auvergnelife.tv/urbanophiles/saison2/)\
+[http://www.auvergnelife.tv/urbanophiles/saison2/](_media/http://www.auvergnelife.tv/urbanophiles/saison2/)\
 
-[http://www.auvergnelife.tv/urbanophiles/saison3/index.html](http://www.auvergnelife.tv/urbanophiles/saison3/index.html)
+[http://www.auvergnelife.tv/urbanophiles/saison3/index.html](_media/http://www.auvergnelife.tv/urbanophiles/saison3/index.html)

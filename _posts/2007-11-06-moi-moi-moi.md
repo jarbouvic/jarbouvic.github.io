@@ -1,11 +1,7 @@
 ---
-
 title: "Moi moi moi"
-
 date: 2007-11-06T21:45:00+00:00
-comments: false
-categories: 
-- life
+languages: fr
 tags:
 - cranfield
 ---

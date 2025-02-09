@@ -2,12 +2,13 @@
 title: What if computers were this simple ?
 date: 2007-10-18T11:34:00+00:00
 tags:
-  - technology
+  - tech
   - thoughts
 ---
 # What if computers were this simple ?
 
-![](lightbulb.jpg.scaled1000.jpg)
+![Eureka !](_media/lightbulb.jpg.scaled1000.jpg)
+
  Vous êtes nombreux à m’avoir déjà demandé *Mais au fait tu fais quoi là-bas*?", ce à quoi je répond habituellement "*Eh bien je fais un MSc in Computational & Software Techniques For Engineering avec une option en Grid Computing & e-Engineering*"... Evidemment là dessus, je me heurte systématiquement à un "*Ah ok...* (notez les points de suspension) ou bien à un "Mais sinon tu fais quoi exactement?" Alors voilà, sortez vos crayons, prenez des notes, le cours d’aujourd’hui traitera de Grid Computing!
 
  *Petit cours d’histoire pour commencer* : Fin des années 30 en Angleterre non loin de Cranfield... Le mathématicien Alan Turing met au point le concept de Machine Universelle de Turing qui pose les fondements de l’informatique moderne. Trente ans plus tard apparaissent les premiers Personal Computers avec leurs fameux microprocesseurs qui grâce à au préfixe "micro" font enfin de l’ordinateur une machine grand public (ou presque). Pendant ce temps là dans le Massachusetts, une équipe de chercheurs développe pour l’armée américaine un système d’inter-networking afin de mettre en réseau de manière non centralisée plusieurs ordinateurs distants. Il faudra cependant attendre les années 80 pour que la révolution internet se mette finalement en marche, principalement grâce à l’invention du World Wide Web par Sir Tim Berners-Lee au CERN. Nous voici maintenant en 2007 et l’informatique a à présent envahi la planète pour devenir omniprésente à la fois dans les foyers comme au bureau. Full Stop. Fin de l’histoire.

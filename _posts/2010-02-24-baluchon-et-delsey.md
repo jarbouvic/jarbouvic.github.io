@@ -1,14 +1,9 @@
 ---
-
-
 date: 2010-02-24T21:30:00+00:00
-comments: false
-categories: 
-- life
+languages: fr
 tags:
-- tribulations
+- bio
 - indonesia
-- love
 title: "Baluchon et Delsey"
 ---
 
