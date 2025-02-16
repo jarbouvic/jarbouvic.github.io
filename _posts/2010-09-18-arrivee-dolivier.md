@@ -3,7 +3,7 @@
 title: "Arrivée d'Olivier"
 
 date: 2010-09-18T21:16:00+00:00
-comments: false
+
 categories: 
 - life
 tags:

@@ -1,15 +1,9 @@
 ---
-comments: true
 date: 2016-09-27T11:00:46+07:00
-draft: false
 title: React makes me resent AngularJS
-languages: 
-- en
-categories: 
-- tech
-tags: 
-- AngularJS
-- React
+tags:
+  - AngularJS
+  - React
 ---
 
 Just went through the React official [tutorial](https://facebook.github.io/react/docs/tutorial.html) and I am amazed by the simplicity of the framework as opposed to the unassumed complexity of AngularJS. I played mentally with it for 5 minutes and it just feels like a box of Legos™ where each block has its own obvious shape and role and can be used independently of the others. At first sight, working with React looks like a simple game of fitting blocks inside each others, allowing you to build anything from the simplest of structure to the most intricate work of art.

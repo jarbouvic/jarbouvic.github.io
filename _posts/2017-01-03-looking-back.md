@@ -1,12 +1,8 @@
 ---
-title: "Looking back on 2016"
-date: "2017-01-03T16:23:04+07:00"
-categories:
-- life
+title: Looking back on 2016
+date: 2017-01-03T16:23:04+07:00
 tags:
-- introspection
-- house-husband
-- new year
+  - thoughts
 ---
 
 With every new year comes a time for retrospection (don't know if this is a word, I mean "retrospective introspection"). I've had a very shitty end of 2016 year. I was sick, tired, depressed, feeling that the world was going on without me and that no one cared if I was lagging behind. I overworked myself and felt as if the kids were set to slowly kill me with their screams and pokes and marker-battled faces. Truth be told, giving daddy a break will just never be on top of a toddler's agenda. That lead me to a downward slope. 

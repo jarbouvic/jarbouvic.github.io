@@ -3,7 +3,7 @@
 title: "Ramadan 2010 - C'est déjà fini!"
 
 date: 2010-09-11T00:09:00+00:00
-comments: false
+
 categories: 
 - life
 tags:

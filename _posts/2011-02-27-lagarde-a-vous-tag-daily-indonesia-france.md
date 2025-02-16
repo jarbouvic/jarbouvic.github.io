@@ -3,7 +3,7 @@
 title: "Lagarde-à-vous!"
 
 date: 2011-02-27T07:10:00+00:00
-comments: false
+
 categories: 
 - life
 tags:

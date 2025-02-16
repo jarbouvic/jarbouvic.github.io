@@ -1,7 +1,7 @@
 ---
 title: Pulau Umang - 01 mai 2010
 date: 2010-03-24T15:58:00+00:00
-comments: false
+
 categories:
   - life
 tags:

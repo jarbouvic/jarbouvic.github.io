@@ -5,17 +5,15 @@ layout: default
 <div class="post">
   <div class="post-info">
     {% if page.date %}
-      </span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
+      <time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
+      <br/>
     {% endif %}
-  </div>
-
-  <h1 class="post-title">{{ page.title }}</h1>
-  <div class="post-line"></div>
-  <div class="tags-clouds">
     {% for tag in page.tags %}
-    <a href="#{{ tag }}">{{ tag }}</a>
+    <span class="post-tag">#{{ tag }}</span>
     {% endfor %}
   </div>
+  <h1 class="post-title">{{ page.title }}</h1>
+  <div class="post-line"></div>
 
   {{ content }}
 </div>

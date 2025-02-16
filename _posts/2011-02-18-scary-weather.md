@@ -1,7 +1,7 @@
 ---
 title: Scary weather
 date: 2011-02-18T08:32:00+00:00
-comments: false
+
 categories:
   - life
 tags:

@@ -3,7 +3,7 @@
 title: "Back from Ujung Kulon"
 
 date: 2010-09-26T23:15:00+00:00
-comments: false
+
 categories: 
 - life
 tags:

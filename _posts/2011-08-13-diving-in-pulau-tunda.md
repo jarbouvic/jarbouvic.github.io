@@ -2,7 +2,7 @@
 
 
 date: 2011-08-13T23:29:00+00:00
-comments: false
+
 categories: 
 - life
 tags:
@@ -16,30 +16,30 @@ Le week-end dernier, nous sommes sorti de Jakarta pour partir plonger à Pulau T
 
  Pour la première plongée, nous n'allons de toute façon pas bien loin car Irma n'arrive pas à égaliser en descendant, sans doute surprise par le brouillard ambiant. Nous remontons au bout de 10 minutes. Après manger, nous repartons de plus belle. L'eau est surprenamment chaude, heureusement d'ailleurs car le moniteur n'a pas pris assez de combinaisons de plongée et je me retrouve donc à plonger en calebut! La descente est assez anarchique, chacun essayant de ne pas perdre de vue celui de devant en glissant sur la pente. L'eau est grise et s'obscurcit à vue d'oeil au fur et à mesure que nous nous enfoncons. Lorsque je regarde mon manomètre, nous sommes déjà à 32 mètres au lieu des 18 mètres autorisés! Pas étonnant qu'il fasse aussi sombre! Nous remontons donc à une profondeur plus raisonnable pour continuer à planner doucement dans cette soupe chaude, juste le temps de jouer avec quelques poissons clowns et d'entrapercevoir une raie se glisser sous moi...
  
-![](media/pulautunda-003.jpg)
+![](media/Diving_in_Pulau_Tunda_tagphoto/pulautunda-003.jpg)
 
-![](media/pulautunda-006.jpg)
+![](media/Diving_in_Pulau_Tunda_tagphoto/pulautunda-006.jpg)
 
-![](media/pulautunda-008.jpg)
+![](media/Diving_in_Pulau_Tunda_tagphoto/pulautunda-008.jpg)
 
-![](media/pulautunda-010.jpg)
+![](media/Diving_in_Pulau_Tunda_tagphoto/pulautunda-010.jpg)
 
-![](media/pulautunda-011.jpg)
+![](media/Diving_in_Pulau_Tunda_tagphoto/pulautunda-011.jpg)
 
-![](media/pulautunda-012.jpg)
+![](media/Diving_in_Pulau_Tunda_tagphoto/pulautunda-012.jpg)
 
-![](media/pulautunda-013.jpg)
+![](media/Diving_in_Pulau_Tunda_tagphoto/pulautunda-013.jpg)
 
-![](media/pulautunda-014.jpg)
+![](media/Diving_in_Pulau_Tunda_tagphoto/pulautunda-014.jpg)
 
-![](media/pulautunda-017.jpg)
+![](media/Diving_in_Pulau_Tunda_tagphoto/pulautunda-017.jpg)
 
-![](media/pulautunda-018.jpg)
+![](media/Diving_in_Pulau_Tunda_tagphoto/pulautunda-018.jpg)
 
-![](media/pulautunda-022.jpg)
+![](media/Diving_in_Pulau_Tunda_tagphoto/pulautunda-022.jpg)
 
-![](media/pulautunda-024.jpg)
+![](media/Diving_in_Pulau_Tunda_tagphoto/pulautunda-024.jpg)
 
-![](media/pulautunda-025.jpg)
+![](media/Diving_in_Pulau_Tunda_tagphoto/pulautunda-025.jpg)
 
-![](media/pulautunda-031.jpg)
+![](media/Diving_in_Pulau_Tunda_tagphoto/pulautunda-031.jpg)

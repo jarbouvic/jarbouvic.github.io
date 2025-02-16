@@ -1,18 +1,19 @@
 # Site settings
 title: jarbouvic
 description: "Victor Moreau"
-url: "https://jarbouvic.github.io"
+url: "http://www.jarbouvic.fr"
 
 # Author
 author:
   name: Victor Moreau
-  url: jarbouvic.github.io
+  url: www.jarbouvic.fr
   email: jarbouvic@gmail.com
 
 # Build settings
 markdown: kramdown
 include:
   - _pages
+  - _collections
 
 # Assets
 sass:

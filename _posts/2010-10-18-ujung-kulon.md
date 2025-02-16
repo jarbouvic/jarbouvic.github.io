@@ -3,7 +3,7 @@
 title: "Ujung Kulon (24-26 sept 2010)"
 
 date: 2010-10-18T10:00:00+00:00
-comments: false
+
 categories: 
 - life
 tags:

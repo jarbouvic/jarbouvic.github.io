@@ -3,7 +3,7 @@
 title: "Balade sur les flans du Salak Endah"
 
 date: 2010-09-16T00:08:00+00:00
-comments: false
+
 categories: 
 - life
 tags:

@@ -3,7 +3,7 @@
 title: "Rinjani - Day 1 - Climbing through the clouds"
 
 date: 2010-10-23T21:20:00+00:00
-comments: false
+
 categories: 
 - life
 tags:

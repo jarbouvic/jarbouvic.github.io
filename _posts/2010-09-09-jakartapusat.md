@@ -1,7 +1,7 @@
 ---
 title: Jakarta Pusat by night
 date: 2010-08-09T23:06:00+00:00
-comments: false
+
 categories:
   - life
 tags:

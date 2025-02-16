@@ -1,7 +1,7 @@
 ---
 title: Puncak family gathering
 date: 2010-04-07T15:58:00+00:00
-comments: false
+
 categories:
   - life
 tags:

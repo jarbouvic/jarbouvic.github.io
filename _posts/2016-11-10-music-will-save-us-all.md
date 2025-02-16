@@ -1,15 +1,9 @@
 ---
 title: Music will save us all
-date: 2016-11-10T10:49:19+07:00 
-languages: 
-- en
-categories: 
-- life
-tags: 
-- Trump
-- music
-- free writing
-- fear
+date: 2016-11-10T10:49:19+07:00
+tags:
+  - Trump
+  - music
 ---
 
 Trump just won. Unexpected. Sad. Feeling the world nosediving in darkness. But music will save us all. Trump is just a puppet. Appealing to all those who want a break. Appealing to those who live on hope. He's just a man. Delured yes, but just a man. How's he gonna break all of us? Just a man really. Although most powerful now. But music will save him too.

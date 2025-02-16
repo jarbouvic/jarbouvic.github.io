@@ -3,7 +3,7 @@
 title: "Apocalypse in Jakarta"
 
 date: 2010-09-13T06:01:00+00:00
-comments: false
+
 categories: 
 - life
 tags:

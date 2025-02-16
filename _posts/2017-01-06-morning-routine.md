@@ -1,11 +1,10 @@
 ---
 date: 2017-01-06T11:38:45+07:00
 title: Holiday morning routine
-categories:
-  - life
 tags:
   - kids
-  - routine
+  - bio
+  - thoughts
 ---
 It's 11am. I'm on my knees. Another morning routine accomplished. Those are hard on the knees but at the same time so rewarding. During this holiday period, this goes typicaly like this:
 

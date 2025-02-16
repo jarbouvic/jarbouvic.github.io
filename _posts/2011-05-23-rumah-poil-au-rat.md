@@ -1,11 +1,6 @@
 ---
-
 title: "Rumah poil au rat!"
-
 date: 2011-05-23T07:31:00+00:00
-comments: false
-categories: 
-- life
 tags:
 - indonesia
 - jakarta 
@@ -15,8 +10,8 @@ Deux mois d'absence déjà sur ce blog. Veuillez m'en excuser. Ces dernières se
 
 Edit: Merci à Papa pour les illustrations ;)
 
-![](media/CICAk.jpg)
+![](media/rumah-poil-au-rat-iqsjwjmehujxeFAIDjAw/CICAk.jpg)
 
-![](media/Geko.jpg)
+![](media/rumah-poil-au-rat-iqsjwjmehujxeFAIDjAw/Geko.jpg)
 
-![](media/punaise_géante.jpg)
+![](media/rumah-poil-au-rat-iqsjwjmehujxeFAIDjAw/punaise_géante.jpg)

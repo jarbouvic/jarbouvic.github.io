@@ -10,7 +10,7 @@ Hi. I'm Victor. I live currently in Clermont-Ferrand, France. I'm passionate abo
 
 If you look further, you might read a few things I wrote since I was in college. Mostly personal stuff, random thoughts and the occasional rumbling. Don't look for something structured or meaningful, it's mostly a fragmented piece of myself hanging out in the interwebs. I keep it there because I'm sentimental and I wish to dedicate more time to blogging in the future. By the way, I'm french, so if some of it sounds french to you, well that's normal.
 
-I'd love hearing from you! If you want to share something on your mind or ask me a question, please send me an email at **jarbouvic at gmail dot com**.
+I'd love hearing from you! If you want to share something on your mind or ask me a question, please send me an email at [victor@jarbouvic.fr](mailto:victor@jarbouvic.fr).
 
 ### Things I love
 - Quiet. I love quiet. And music. This is what saves my soul. Leave me alone for a few hours, I'll love you for it.

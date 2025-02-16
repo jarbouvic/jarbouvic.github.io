@@ -1,49 +1,46 @@
 ---
 date: 2011-10-31T23:48:00+00:00
-comments: false
-categories:
-  - life
 tags:
   - indonesia
   - travel
-  - gunung
+  - bio
 title: Pangandaran & Green Canyon
 ---
 
 
 Voici les photos de notre dernier weekend. Cette fois-ci, destination Pangandaran, à 300km au sud-est de Jakarta pour y descendre une rivière en canyoning. Evidemment, une fois n'est pas coutume, il nous a fallu pas moins de 8h de bagnole pour arriver à notre but et plus de 12h au retour. Sur un weekend de 2 jours ça fait un peu beaucoup, mais ça valait tout de même le coup!
 
-![](media/DSC_9740.jpg)
+![](media/Pangandaran_Green_Canyon/DSC_9740.jpg)
 
-![](media/DSC_9743.jpg)
+![](media/Pangandaran_Green_Canyon/DSC_9743.jpg)
 
-![](media/DSC_9748.jpg)
+![](media/Pangandaran_Green_Canyon/DSC_9748.jpg)
 
-![](media/DSC_9750.jpg)
+![](media/Pangandaran_Green_Canyon/DSC_9750.jpg)
 
-![](media/DSC_9755.jpg)
+![](media/Pangandaran_Green_Canyon/DSC_9755.jpg)
 
-![](media/DSC_9767.jpg)
+![](media/Pangandaran_Green_Canyon/DSC_9767.jpg)
 
-![](media/DSC_9785.jpg)
+![](media/Pangandaran_Green_Canyon/DSC_9785.jpg)
 
-![](media/DSC_9805.jpg)
+![](media/Pangandaran_Green_Canyon/DSC_9805.jpg)
 
-![](media/DSC_9826.jpg)
+![](media/Pangandaran_Green_Canyon/DSC_9826.jpg)
 
-![](media/DSC_9828.jpg)
+![](media/Pangandaran_Green_Canyon/DSC_9828.jpg)
 
-![](media/DSC_9845.jpg)
+![](media/Pangandaran_Green_Canyon/DSC_9845.jpg)
 
-![](media/DSC_9857-1.jpg)
+![](media/Pangandaran_Green_Canyon/DSC_9857-1.jpg)
 
-![](media/DSC_9893.jpg)
+![](media/Pangandaran_Green_Canyon/DSC_9893.jpg)
 
-![](media/DSC_9902.jpg)
+![](media/Pangandaran_Green_Canyon/DSC_9902.jpg)
 
-![](media/DSC_9913.jpg)
+![](media/Pangandaran_Green_Canyon/DSC_9913.jpg)
 
-![](media/DSC_9913-1.jpg)
+![](media/Pangandaran_Green_Canyon/DSC_9913-1.jpg)
 
 ![](media/P1010569.jpg)
 

@@ -3,7 +3,7 @@
 title: "Air pur à Jakarta"
 
 date: 2010-05-20T23:06:00+00:00
-comments: false
+
 categories: 
 - life
 tags:

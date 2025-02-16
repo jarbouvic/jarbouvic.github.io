@@ -3,7 +3,7 @@
 title: "Petite pensee pour nos amis francais..."
 
 date: 2010-10-18T00:45:00+00:00
-comments: false
+
 categories: 
 - life
 tags:

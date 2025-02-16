@@ -1,15 +1,10 @@
 ---
-
-
 date: 2011-09-16T23:48:00+00:00
-comments: false
-categories: 
-- life
 tags:
-- indonesia
-- travel
-- gunung
-title: "Tangkuban Perahu"
+  - indonesia
+  - travel
+  - gunung
+title: Tangkuban Perahu
 ---
 
 Petite escapade il y a deux semaines sur l'un des volcans fumant qui surplombent Bandung, Java Ouest. Tangkuban Perahu, *bateau chaviré* en français, tient son nom à la fois à sa forme de coque de bateau à l'envers et aux légendes qui l'entourent.
@@ -18,24 +13,24 @@ La montée au sommet est on ne peut plus simple puisque la route monte jusqu'au 
 
 Bref petite balade du dimanche, faisable en tongs (évidemment), permettant de profiter de la fraicheur de l'air à 1600m d'altitude.
 
-![](media/DSC_6558.jpg)
+![](media/Tangkuban_Perahu_tagphotos_wee/DSC_6558.jpg)
 
-![](media/DSC_6575.jpg)
+![](media/Tangkuban_Perahu_tagphotos_wee/DSC_6575.jpg)
 
-![](media/DSC_6586.jpg)
+![](media/Tangkuban_Perahu_tagphotos_wee/DSC_6586.jpg)
 
-![](media/DSC_6599.jpg)
+![](media/Tangkuban_Perahu_tagphotos_wee/DSC_6599.jpg)
 
-![](media/DSC_6605.jpg)
+![](media/Tangkuban_Perahu_tagphotos_wee/DSC_6605.jpg)
 
-![](media/DSC_6623.jpg)
+![](media/Tangkuban_Perahu_tagphotos_wee/DSC_6623.jpg)
 
-![](media/DSC_6653.jpg)
+![](media/Tangkuban_Perahu_tagphotos_wee/DSC_6653.jpg)
 
-![](media/DSC_6678.jpg)
+![](media/Tangkuban_Perahu_tagphotos_wee/DSC_6678.jpg)
 
-![](media/DSC_6702.jpg)
+![](media/Tangkuban_Perahu_tagphotos_wee/DSC_6702.jpg)
 
-![](media/DSC_6715.jpg)
+![](media/Tangkuban_Perahu_tagphotos_wee/DSC_6715.jpg)
 
-![](media/DSC_6742.jpg)
+![](media/Tangkuban_Perahu_tagphotos_wee/DSC_6742.jpg)

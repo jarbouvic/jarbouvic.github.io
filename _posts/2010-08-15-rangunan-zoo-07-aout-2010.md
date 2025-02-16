@@ -3,7 +3,7 @@
 title: "Rangunan Zoo - 07 août 2010"
 
 date: 2010-08-15T23:15:00+00:00
-comments: false
+
 categories: 
 - life
 tags:

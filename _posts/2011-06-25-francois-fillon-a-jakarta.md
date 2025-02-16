@@ -3,7 +3,7 @@
 title: "François Fillon à Jakarta"
 
 date: 2011-06-25T09:05:00+00:00
-comments: false
+
 categories: 
 - life
 tags:
@@ -12,7 +12,7 @@ tags:
 - diplomacy
 ---
 
-Notre très cher premier ministre François Fillon viendra exceptionnellement nous visiter le 30 juin prochain à Jakarta. Alléché par la présence des plus hautes instances de l'état français et surtout par le buffet dinatoire qui suivra la cérémonie d'accueil, j'ai répondu favorablement à l'invitation de l'ambassadeur ci-dessous pour moi et Irma:
+Notre très cher premier ministre François Fillon viendra exceptionnellement nous visiter le 30 juin prochain à Jakarta. Alléché par la présence des plus hautes instances de l'état français et surtout par le buffet dînatoire qui suivra la cérémonie d'accueil, j'ai répondu favorablement à l'invitation de l'ambassadeur ci-dessous pour moi et Irma:
 
 > *Madame, Mademoiselle, Monsieur, Chers compatriotes,*
 > 
