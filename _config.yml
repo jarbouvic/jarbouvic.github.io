@@ -39,3 +39,23 @@ collections:
     output: true
   done:
     output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "read" # a collection in your site, in plural form
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "watched" # a collection in your site, in plural form
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "done" # a collection in your site, in plural form
+    values:
+      layout: "post"

@@ -11,6 +11,11 @@ layout: default
 
   <h1 class="post-title">{{ page.title }}</h1>
   <div class="post-line"></div>
+  <div class="tags-clouds">
+    {% for tag in page.tags %}
+    <a href="#{{ tag[0] }}">{{ tag[0] }}</a>
+    {% endfor %}
+  </div>
 
   {{ content }}
 </div>
