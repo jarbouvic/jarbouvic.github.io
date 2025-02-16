@@ -11,9 +11,9 @@ permalink: /collections/
   <div>
     Here is a list of things I’ve read, watched, done. 
   </div>
-  <div class="tags-item" id="Books">
-    <h2 class="tags-item-label">Books</h2>
-    {% for book in site.books %}
+  <div class="tags-item" id="Read">
+    <h2 class="tags-item-label">Read</h2>
+    {% for book in site.read %}
     <a class="tags-post" href="{{ book.url | prepend: site.baseurl }}">
       <div>
         <span class="tags-post-title">{{ book.title }}</span>
@@ -22,6 +22,38 @@ permalink: /collections/
       <span class="tags-post-meta">
         <time datetime="{{ book.date }}">
           {{ book.date | date:"%Y-%m-%d" }}
+        </time>
+      </span>
+    </a>
+    {% endfor %}
+  </div>
+  <div class="tags-item" id="Watched">
+    <h2 class="tags-item-label">Watched</h2>
+    {% for movie in site.watched %}
+    <a class="tags-post" href="{{ movie.url | prepend: site.baseurl }}">
+      <div>
+        <span class="tags-post-title">{{ movie.title }}</span>
+        <div class="tags-post-line"></div>
+      </div>
+      <span class="tags-post-meta">
+        <time datetime="{{ movie.date }}">
+          {{ movie.date | date:"%Y-%m-%d" }}
+        </time>
+      </span>
+    </a>
+    {% endfor %}
+  </div>
+  <div class="tags-item" id="Done">
+    <h2 class="tags-item-label">Done</h2>
+    {% for thing in site.done %}
+    <a class="tags-post" href="{{ thing.url | prepend: site.baseurl }}">
+      <div>
+        <span class="tags-post-title">{{ thing.title }}</span>
+        <div class="tags-post-line"></div>
+      </div>
+      <span class="tags-post-meta">
+        <time datetime="{{ thing.date }}">
+          {{ thing.date | date:"%Y-%m-%d" }}
         </time>
       </span>
     </a>

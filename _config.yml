@@ -3,9 +3,6 @@ title: jarbouvic
 description: "Victor Moreau"
 url: "https://jarbouvic.github.io"
 
-# Google Analytics
-google_analytics: UA—XXXXXXXX-X
-
 # Author
 author:
   name: Victor Moreau
@@ -36,5 +33,9 @@ permalink: /:year-:month-:day/:title
 paginate: 5
 
 collections:
-  books:
+  read:
+    output: true
+  watched:
+    output: true
+  done:
     output: true
