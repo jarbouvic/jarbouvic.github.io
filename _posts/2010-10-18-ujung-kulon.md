@@ -23,44 +23,44 @@ Au programme de cette excursion de 3 jours:
 -   re-trek dans la gadoue à la lampe frontale sous la pluie battante juste pour le plaisir!
 -   nuit humide et retour interminable sur Jakarta bien fatigués!
 
-![](_media/20100924-011.jpg)
+![](media/20100924-011.jpg)
 
-![](_media/20100924-018.jpg)
+![](media/20100924-018.jpg)
 
-![](_media/20100924-025.jpg)
+![](media/20100924-025.jpg)
 
-![](_media/20100924-034.jpg)
+![](media/20100924-034.jpg)
 
-![](_media/20100924-039.jpg)
+![](media/20100924-039.jpg)
 
-![](_media/20100924-055.jpg)
+![](media/20100924-055.jpg)
 
-![](_media/20100924-056.jpg)
+![](media/20100924-056.jpg)
 
-![](_media/20100925-062.jpg)
+![](media/20100925-062.jpg)
 
-![](_media/20100925-065.jpg)
+![](media/20100925-065.jpg)
 
-![](_media/20100925-070.jpg)
+![](media/20100925-070.jpg)
 
-![](_media/20100925-087.jpg)
+![](media/20100925-087.jpg)
 
-![](_media/20100925-089.jpg)
+![](media/20100925-089.jpg)
 
-![](_media/20100925-098.jpg)
+![](media/20100925-098.jpg)
 
-![](_media/20100925-106.jpg)
+![](media/20100925-106.jpg)
 
-![](_media/20100925-117.jpg)
+![](media/20100925-117.jpg)
 
-![](_media/20100925-123.jpg)
+![](media/20100925-123.jpg)
 
-![](_media/20100925-131.jpg)
+![](media/20100925-131.jpg)
 
-![](_media/20100925-138.jpg)
+![](media/20100925-138.jpg)
 
-![](_media/20100925-144.jpg)
+![](media/20100925-144.jpg)
 
-![](_media/20100926-148.jpg)
+![](media/20100926-148.jpg)
 
-![](_media/20100926-164.jpg)
+![](media/20100926-164.jpg)

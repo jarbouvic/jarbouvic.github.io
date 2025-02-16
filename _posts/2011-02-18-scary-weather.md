@@ -8,7 +8,7 @@ tags:
   - indonesia
   - jakarta
 ---
-![](_media/IMG00121-20110218-1611.jpg.scaled.1000.jpg)
+![](media/IMG00121-20110218-1611.jpg.scaled.1000.jpg)
 
 Quand le ciel nous tombe sur la tête à Jakarta, ca donne ca... (pris de la fenêtre de mon bureau)
 

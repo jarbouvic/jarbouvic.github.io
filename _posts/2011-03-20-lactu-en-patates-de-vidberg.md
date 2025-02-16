@@ -10,10 +10,10 @@ tags:
 - france 
 ---
 
-Je ne peux pas resister a publier ces jolies illustrations de Martin Vidberg, qui en plus d'etre souvent tres justes, mettent en lumiere certains aspects sombres de l'actualite. Vous pouvez le suivre sur son blog [http://vidberg.blog.lemonde.fr/](_media/http://vidberg.blog.lemonde.fr/).
+Je ne peux pas resister a publier ces jolies illustrations de Martin Vidberg, qui en plus d'etre souvent tres justes, mettent en lumiere certains aspects sombres de l'actualite. Vous pouvez le suivre sur son blog [http://vidberg.blog.lemonde.fr/](media/http://vidberg.blog.lemonde.fr/).
 
-![](_media/052_japon.1299837789.gif)
+![](media/052_japon.1299837789.gif)
 
-![](_media/059_solidarite.1300180852.gif)
+![](media/059_solidarite.1300180852.gif)
 
-![](_media/063_intervention-en-libye.1300.gif)
+![](media/063_intervention-en-libye.1300.gif)

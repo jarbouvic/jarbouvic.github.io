@@ -15,56 +15,56 @@ Je me rends compte que je n'ai pas encore posté d'article sur notre séjour à 
 
 1ère partie: Les couchers de soleil grandioses avec au loin l'île de Bali dominée par le mont Agung.
 
-![](_media/20101002-233.jpg)
+![](media/20101002-233.jpg)
 
-![](_media/20101002-236.jpg)
+![](media/20101002-236.jpg)
 
-![](_media/20101002-240.jpg)
+![](media/20101002-240.jpg)
 
-![](_media/20101002-243.jpg)
+![](media/20101002-243.jpg)
 
-![](_media/20101002-253.jpg)
+![](media/20101002-253.jpg)
 
 2ème partie: Les îles Gili, petits îlots de sable blanc donnant sur des fonds marins spectaculaires.
 
-![](_media/20101002-186.jpg)
+![](media/20101002-186.jpg)
 
-![](_media/20101002-187.jpg)
+![](media/20101002-187.jpg)
 
-![](_media/20101002-192.jpg)
+![](media/20101002-192.jpg)
 
-![](_media/20101002-198.jpg)
+![](media/20101002-198.jpg)
 
-![](_media/20101002-201.jpg)
+![](media/20101002-201.jpg)
 
-![](_media/20101002-208.jpg)
+![](media/20101002-208.jpg)
 
-![](_media/20101002-211.jpg)
+![](media/20101002-211.jpg)
 
-![](_media/20101002-220.jpg)
+![](media/20101002-220.jpg)
 
-![](_media/20101002-222.jpg)
+![](media/20101002-222.jpg)
 
-![](_media/20101002-225.jpg)
+![](media/20101002-225.jpg)
 
-![](_media/20101002-228.jpg)
+![](media/20101002-228.jpg)
 
-![](_media/20101002-230.jpg)
+![](media/20101002-230.jpg)
 
 3ème partie: Le très sympatique petit hôtel Santai Beach Inn à Mangsit et ses grosses araignées résidentes permanentes.
 
-![](_media/20100927-002.jpg)
+![](media/20100927-002.jpg)
 
-![](_media/20100927-005.jpg)
+![](media/20100927-005.jpg)
 
-![](_media/20100927-008.jpg)
+![](media/20100927-008.jpg)
 
-![](_media/20101001-176.jpg)
+![](media/20101001-176.jpg)
 
-![](_media/20101001-179.jpg)
+![](media/20101001-179.jpg)
 
-![](_media/20101001-181.jpg)
+![](media/20101001-181.jpg)
 
-![](_media/20101003-269.jpg)
+![](media/20101003-269.jpg)
 
-![](_media/20101003-272.jpg)
+![](media/20101003-272.jpg)

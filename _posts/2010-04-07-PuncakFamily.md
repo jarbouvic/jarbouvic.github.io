@@ -10,26 +10,26 @@ tags:
 ---
 
 Weekend avec la famille d'Irma à Puncak du 2 au 5 avril 2010
-![](_media/DSC_1608.jpg)
+![](media/DSC_1608.jpg)
 
-![](_media/DSC_1610.jpg)
+![](media/DSC_1610.jpg)
 
-![](_media/DSC_1641.jpg)
+![](media/DSC_1641.jpg)
 
-![](_media/DSC_1700.jpg)
+![](media/DSC_1700.jpg)
 
-![](_media/DSC_1994.jpg)
+![](media/DSC_1994.jpg)
 
-![](_media/DSC_2011.jpg)
+![](media/DSC_2011.jpg)
 
-![](_media/DSC_2045.jpg)
+![](media/DSC_2045.jpg)
 
-![](_media/DSC_2059.jpg)
+![](media/DSC_2059.jpg)
 
-![](_media/DSC_2081.jpg)
+![](media/DSC_2081.jpg)
 
-![](_media/DSC_2094.jpg)
+![](media/DSC_2094.jpg)
 
-![](_media/DSC_2139.jpg)
+![](media/DSC_2139.jpg)
 
-![](_media/DSC_2209.jpg)
+![](media/DSC_2209.jpg)

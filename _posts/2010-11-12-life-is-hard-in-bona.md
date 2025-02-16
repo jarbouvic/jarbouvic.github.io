@@ -10,8 +10,8 @@ tags:
 - indonesia
 - jakarta
 ---
-![](_media/IMG00014-20101113-1128.jpg)
+![](media/IMG00014-20101113-1128.jpg)
 
-![](_media/IMG00015-20101113-1129.jpg)
+![](media/IMG00015-20101113-1129.jpg)
 
-![](_media/IMG00019-20101113-1132.jpg)
+![](media/IMG00019-20101113-1132.jpg)

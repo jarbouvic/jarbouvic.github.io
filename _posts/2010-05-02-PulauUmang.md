@@ -10,26 +10,26 @@ tags:
 ---
 Day trip to Pulau Umang, a private resort island near Ujung Kulon in West Java, Indonesia.
 
-![](_media/20100501-007.jpg)
+![](media/20100501-007.jpg)
 
-![](_media/20100501-011.jpg)
+![](media/20100501-011.jpg)
 
-![](_media/20100501-016.jpg)
+![](media/20100501-016.jpg)
 
-![](_media/20100501-023.jpg)
+![](media/20100501-023.jpg)
 
-![](_media/20100501-025.jpg)
+![](media/20100501-025.jpg)
 
-![](_media/20100501-028.jpg)
+![](media/20100501-028.jpg)
 
-![](_media/20100501-057.jpg)
+![](media/20100501-057.jpg)
 
-![](_media/20100501-064.jpg)
+![](media/20100501-064.jpg)
 
-![](_media/20100501-069.jpg)
+![](media/20100501-069.jpg)
 
-![](_media/20100501-079.jpg)
+![](media/20100501-079.jpg)
 
-![](_media/20100501-101.jpg)
+![](media/20100501-101.jpg)
 
-![](_media/20100501-106.jpg)
+![](media/20100501-106.jpg)

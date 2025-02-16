@@ -11,49 +11,17 @@ permalink: /collections/
   <div>
     Here is a list of things I’ve read, watched, done. 
   </div>
-  <div class="tags-item" id="Read">
-    <h2 class="tags-item-label">Read</h2>
-    {% for book in site.read %}
-    <a class="tags-post" href="{{ book.url | prepend: site.baseurl }}">
+  <div class="tags-item" id="Collections">
+    {% for item in site.collections %}
+    <a class="tags-post" href="{{ item.url | prepend: site.baseurl }}">
       <div>
-        <span class="tags-post-title">{{ book.title }} {{ book.rating }}</span>
+        <span class="tags-post-title">{{ item.title }} {{ item.rating }}</span>
         <div class="tags-post-line"></div>
       </div>
       <span class="tags-post-meta">
-        <time datetime="{{ book.date }}">
-          {{ book.date | date:"%Y-%m-%d" }}
-        </time>
-      </span>
-    </a>
-    {% endfor %}
-  </div>
-  <div class="tags-item" id="Watched">
-    <h2 class="tags-item-label">Watched</h2>
-    {% for movie in site.watched %}
-    <a class="tags-post" href="{{ movie.url | prepend: site.baseurl }}">
-      <div>
-        <span class="tags-post-title">{{ movie.title }} {{ movie.rating }}</span>
-        <div class="tags-post-line"></div>
-      </div>
-      <span class="tags-post-meta">
-        <time datetime="{{ movie.date }}">
-          {{ movie.date | date:"%Y-%m-%d" }}
-        </time>
-      </span>
-    </a>
-    {% endfor %}
-  </div>
-  <div class="tags-item" id="Done">
-    <h2 class="tags-item-label">Done</h2>
-    {% for thing in site.done %}
-    <a class="tags-post" href="{{ thing.url | prepend: site.baseurl }}">
-      <div>
-        <span class="tags-post-title">{{ thing.title }} {{ thing.rating }}</span>
-        <div class="tags-post-line"></div>
-      </div>
-      <span class="tags-post-meta">
-        <time datetime="{{ thing.date }}">
-          {{ thing.date | date:"%Y-%m-%d" }}
+        <span>{{ item.type }} on</span>
+        <time datetime="{{ item.date }}">
+          {{ item.date | date:"%Y-%m-%d" }}
         </time>
       </span>
     </a>

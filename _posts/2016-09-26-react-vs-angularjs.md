@@ -12,7 +12,7 @@ tags:
 - React
 ---
 
-Just went through the React official [tutorial](_media/https://facebook.github.io/react/docs/tutorial.html) and I am amazed by the simplicity of the framework as opposed to the unassumed complexity of AngularJS. I played mentally with it for 5 minutes and it just feels like a box of Legos™ where each block has its own obvious shape and role and can be used independently of the others. At first sight, working with React looks like a simple game of fitting blocks inside each others, allowing you to build anything from the simplest of structure to the most intricate work of art.
+Just went through the React official [tutorial](https://facebook.github.io/react/docs/tutorial.html) and I am amazed by the simplicity of the framework as opposed to the unassumed complexity of AngularJS. I played mentally with it for 5 minutes and it just feels like a box of Legos™ where each block has its own obvious shape and role and can be used independently of the others. At first sight, working with React looks like a simple game of fitting blocks inside each others, allowing you to build anything from the simplest of structure to the most intricate work of art.
 
 To be fair, I haven't even written one line of code yet with React, yet it feels natural and straightforward. I remember going through Angular tutorials amazed by how it seemed to just magically work but unable to fully grasp the bigger picture. Every component of the framework felt it had roots growing all the way to some obscure foundation which would require weeks to understand and master. I felt overwhelmed by the amount of conventions and setup to go through before being able to build a simple app.
 

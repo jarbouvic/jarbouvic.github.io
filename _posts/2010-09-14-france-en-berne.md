@@ -12,7 +12,7 @@ Ce soir, ma nationalité en prend encore un coup... Déjà fin juin, je me disai
 
  Mais ma fierté d'être français restait encore intacte. Et si l'on me posait une question un peu embarassante sur la France, j'arrivais tout de même à m'en tirer sans trop désavouer mon pays. Deux mois plus tard je remet le nez dans les actualités et paf c'est la rechute: je tombe sur une économie morose, des expulsions, des manipulations de médias, un gouvernement au comble de l'hypocrisie et une presse internationale peu enthousiaste. A croire que rien ne change et tout empire (le terme n'est pas innocent)...
 
- Pour la minute déprime, faire un tour sur: [http://bit.ly/b8b7ob](_media/http://bit.ly/b8b7ob)
+ Pour la minute déprime, faire un tour sur: [http://bit.ly/b8b7ob](media/http://bit.ly/b8b7ob)
  
  Puis une petite vidéo pour faire passer la pillule...
 
