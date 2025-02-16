@@ -16,7 +16,7 @@ permalink: /collections/
     {% for book in site.read %}
     <a class="tags-post" href="{{ book.url | prepend: site.baseurl }}">
       <div>
-        <span class="tags-post-title">{{ book.title }}</span>
+        <span class="tags-post-title">{{ book.title }} {{ book.rating }}</span>
         <div class="tags-post-line"></div>
       </div>
       <span class="tags-post-meta">
@@ -32,7 +32,7 @@ permalink: /collections/
     {% for movie in site.watched %}
     <a class="tags-post" href="{{ movie.url | prepend: site.baseurl }}">
       <div>
-        <span class="tags-post-title">{{ movie.title }}</span>
+        <span class="tags-post-title">{{ movie.title }} {{ movie.rating }}</span>
         <div class="tags-post-line"></div>
       </div>
       <span class="tags-post-meta">
@@ -48,7 +48,7 @@ permalink: /collections/
     {% for thing in site.done %}
     <a class="tags-post" href="{{ thing.url | prepend: site.baseurl }}">
       <div>
-        <span class="tags-post-title">{{ thing.title }}</span>
+        <span class="tags-post-title">{{ thing.title }} {{ thing.rating }}</span>
         <div class="tags-post-line"></div>
       </div>
       <span class="tags-post-meta">
