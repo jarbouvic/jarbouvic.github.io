@@ -10,7 +10,10 @@ title: Pangandaran & Green Canyon
 
 Voici les photos de notre dernier weekend. Cette fois-ci, destination Pangandaran, à 300km au sud-est de Jakarta pour y descendre une rivière en canyoning. Evidemment, une fois n'est pas coutume, il nous a fallu pas moins de 8h de bagnole pour arriver à notre but et plus de 12h au retour. Sur un weekend de 2 jours ça fait un peu beaucoup, mais ça valait tout de même le coup!
 
-![](assets/media/Pangandaran_Green_Canyon/DSC_9740.jpg)
+![[DSC_9913.jpg]]
+
+
+![](assets/media/Pangandaran_Green_Canyon/DSC_[[]]9740.jpg)
 
 ![](assets/media/Pangandaran_Green_Canyon/DSC_9743.jpg)
 
