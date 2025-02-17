@@ -25,6 +25,9 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-wikirefs
+  - jekyll-relative-links
+  - jekyll-include-cache
 
 # Permalinks
 permalink: /:year-:month-:day/:title
