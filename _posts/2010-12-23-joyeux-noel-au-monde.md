@@ -8,7 +8,7 @@ tags:
 
 La SNCF souhaite un joyeux Noël au parisiens...
 
-![](media/212915195.jpg.scaled1000.jpg)
+![](assets/media/212915195.jpg.scaled1000.jpg)
 
 Et pour tous les autres, un joyeux Noël venu du ciel...
 

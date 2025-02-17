@@ -16,4 +16,4 @@ Pendant ce temps là, moi j'aide à la cuisine en coupant des pommes de terre et
 
 ***Selamat Idul Fitri semua! Mohon maaf lahir dan batir.***
 
-![](media/VN00004-20100909-2300.amr)
+![](assets/media/VN00004-20100909-2300.amr)

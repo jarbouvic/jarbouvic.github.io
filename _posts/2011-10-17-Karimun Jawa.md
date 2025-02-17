@@ -6,7 +6,7 @@ tags:
   - bio
 title: Karimun Jawa, 23-26 sept 2011
 ---
-![](media/Karimun_Jawa_23-26_sept_2011_t/DSC_7810.jpg)
+	![](media/Karimun_Jawa_23-26_sept_2011_t/DSC_7810.jpg)
 
 ![](media/Karimun_Jawa_23-26_sept_2011_t/DSC_7877.jpg)
 

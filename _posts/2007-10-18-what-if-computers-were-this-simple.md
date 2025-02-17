@@ -7,7 +7,7 @@ tags:
 ---
 # What if computers were this simple ?
 
-![Eureka !](media/lightbulb.jpg.scaled1000.jpg)
+![Eureka !](assets/media/lightbulb.jpg.scaled1000.jpg)
 
  Vous êtes nombreux à m’avoir déjà demandé *Mais au fait tu fais quoi là-bas*?", ce à quoi je répond habituellement "*Eh bien je fais un MSc in Computational & Software Techniques For Engineering avec une option en Grid Computing & e-Engineering*"... Evidemment là dessus, je me heurte systématiquement à un "*Ah ok...* (notez les points de suspension) ou bien à un "Mais sinon tu fais quoi exactement?" Alors voilà, sortez vos crayons, prenez des notes, le cours d’aujourd’hui traitera de Grid Computing!
 

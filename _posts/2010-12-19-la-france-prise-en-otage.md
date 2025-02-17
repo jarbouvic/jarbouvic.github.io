@@ -5,7 +5,7 @@ date: 2010-12-19T22:55:00+00:00
 tags:
 - france 
 ---
-![](media/Pasted%20image%2020250208122624.png)
+![](assets/media/Pasted%20image%2020250208122624.png)
 
 Petite pensee pour la France sous la neige... 
 

@@ -10,8 +10,8 @@ Deux mois d'absence déjà sur ce blog. Veuillez m'en excuser. Ces dernières se
 
 Edit: Merci à Papa pour les illustrations ;)
 
-![](media/rumah-poil-au-rat-iqsjwjmehujxeFAIDjAw/CICAk.jpg)
+![](assets/media/rumah-poil-au-rat-iqsjwjmehujxeFAIDjAw/CICAk.jpg)
 
-![](media/rumah-poil-au-rat-iqsjwjmehujxeFAIDjAw/Geko.jpg)
+![](assets/media/rumah-poil-au-rat-iqsjwjmehujxeFAIDjAw/Geko.jpg)
 
-![](media/rumah-poil-au-rat-iqsjwjmehujxeFAIDjAw/punaise_géante.jpg)
+![](assets/media/rumah-poil-au-rat-iqsjwjmehujxeFAIDjAw/punaise_géante.jpg)
