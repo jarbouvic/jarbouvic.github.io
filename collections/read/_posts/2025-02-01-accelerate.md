@@ -9,7 +9,7 @@ tags:
 ---
 Authors: Nicole Forsgren, Jez Humble, Gene Kim
 
-![[Accelerate-cover.jpeg|Accelerate]]
+![[Accelerate-cover.jpeg]]
 
 The book tries to demonstrate by statistical analysis done with a broad spectrum of businesses how certain practices such as lean management, agility, product oriented decoupling and leadership can make the difference between low performers and high performers in IT.
 
