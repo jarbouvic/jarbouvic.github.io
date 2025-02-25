@@ -22,8 +22,8 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-relative-links
-  - jekyll-include-cache
   - jekyll-wikirefs
+  - jekyll-include-cache
 
 # Permalinks
 permalink: /:year-:month-:day/:title
@@ -38,10 +38,10 @@ defaults:
       path: ""
       type: "posts" 
     values:
-      layout: "posts"
+      layout: "post"
   -
     scope:
       path: ""
       type: "collections" 
     values:
-      layout: "posts"
+      layout: "post"
