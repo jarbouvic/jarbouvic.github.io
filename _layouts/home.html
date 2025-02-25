@@ -9,8 +9,7 @@ layout: default
     {% endif %}
   {% endfor %}
 
-  {% for post in site.posts %}
-  {% if post.categories contains "blog" %}
+  {% for post in site.posts limit:5 %}
   <div class="post">
     <div class="post-info">
       {% if post.date %}
@@ -27,7 +26,6 @@ layout: default
 
     {{ post.content }}
   </div>
-  {% endif %}
   {% endfor %}
 </div>
 

@@ -10,6 +10,7 @@ permalink: /posts/
   </div>
 
   {% for post in site.posts %}
+  {% if post.categories contains "blog" %}
   {% assign currentdate = post.date | date: "%Y" %}
   {% if currentdate != date %}
     <h2 class="tags-item-label" id="y{{currentdate}}">{{ currentdate }}</h2>
@@ -26,5 +27,6 @@ permalink: /posts/
         </time>
       </span>
     </a>
+  {% endif %}
   {% endfor %}
 </div>

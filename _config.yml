@@ -11,9 +11,7 @@ author:
 
 # Build settings
 markdown: kramdown
-include:
-  - _pages
-  - _posts
+source: "_src"
 
 # Assets
 sass:
@@ -29,7 +27,7 @@ plugins:
   - jekyll-include-cache
 
 # Permalinks
-permalink: /:year-:month-:day/:title
+permalink: /:categories/:year-:month-:day/:title
 
 defaults:
   -
@@ -38,27 +36,3 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-  -
-    scope:
-      path: "blog" # an empty string here means all files in the project
-      type: "posts"
-    values:
-      category: "blog"
-  -
-    scope:
-      path: "read" # an empty string here means all files in the project
-      type: "posts"
-    values:
-      category: "read"
-  -
-    scope:
-      path: "watched" # an empty string here means all files in the project
-      type: "posts"
-    values:
-      category: "watched"
-  -
-    scope:
-      path: "done" # an empty string here means all files in the project
-      type: "posts"
-    values:
-      category: "done"
