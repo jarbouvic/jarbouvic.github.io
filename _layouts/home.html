@@ -10,7 +10,7 @@ layout: default
   {% endfor %}
 
   {% for post in site.posts %}
-  {% if post.categories contains "Blog" %}
+  {% if post.categories contains "blog" %}
   <div class="post">
     <div class="post-info">
       {% if post.date %}
@@ -27,6 +27,7 @@ layout: default
 
     {{ post.content }}
   </div>
+  {% endif %}
   {% endfor %}
 </div>
 
