@@ -10,8 +10,8 @@ Deux mois d'absence déjà sur ce blog. Veuillez m'en excuser. Ces dernières se
 
 Edit: Merci à Papa pour les illustrations ;)
 
-![[CICAk.jpg|]]
+![[CICAk.jpg]]
 
-![[Geko.jpg|]]
+![[Geko.jpg]]
 
-![[punaise_géante.jpg|]]
+![[punaise_géante.jpg]]

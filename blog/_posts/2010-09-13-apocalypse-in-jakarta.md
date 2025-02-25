@@ -10,6 +10,6 @@ tags:
 - indonesia
 - jakarta
 ---
-![[20100913-004.jpg.scaled1000.jpg|]]
+![[20100913-004.jpg.scaled1000.jpg]]
 
 Septembre 13, 2010. Comme presque tous les soirs, Jakarta prend des airs de fin du monde. Le ciel brûle, l'air s'épaissie et le Soleil lache ses dernières flammes avant de s'écraser sous l'horizon...
