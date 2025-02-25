@@ -5,6 +5,9 @@ layout: default
 <div class="post">
   <div class="post-info">
     {% if page.date %}
+      {% if page.categories contains "collections" %}
+      <span>{{ page.categories[1] }} on</span>
+      {% endif %}
       <time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
       <br/>
     {% endif %}
@@ -12,7 +15,8 @@ layout: default
     <span class="post-tag">#{{ tag }}</span>
     {% endfor %}
   </div>
-  <h1 class="post-title">{{ page.title }}</h1>
+  <h1 class="post-title">{{ page.title }}
+  {% if page.rating %}{{ page.rating }}{% endif %}</h1>
   <div class="post-line"></div>
 
   {{ content }}

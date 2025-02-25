@@ -14,7 +14,7 @@ permalink: /collections/
     {% if item.categories contains "collections" %}
     <a class="tags-post" href="{{ item.url | prepend: site.baseurl }}">
       <div>
-        <span class="tags-post-title">{{ item.title }} {{ item.rating }}</span>
+        <span class="tags-post-title">{{ item.title }} {% if item.rating %}{{ item.rating }}{% endif %}</span>
         <div class="tags-post-line"></div>
       </div>
       <span class="tags-post-meta">
