@@ -10,6 +10,6 @@ tags:
 - indonesia
 - jakarta
 ---
-![](assets/media/DSC_2215.jpg)
+![[DSC_2215.jpg|]]
 
 Pris du haut de mon balcon à Bonavista Apartemen, Lebak Bulus, Jakarta Selatan.

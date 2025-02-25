@@ -10,7 +10,7 @@ tags:
 - indonesia
 - france 
 ---
-![](assets/media/IMG00138-20110224-2054.jpg)
+![[IMG00138-20110224-2054.jpg|]]
 
 Jeudi soir je me suis offert un petit moment Ferrero Rocher à la résidence de France à l'occasion de la visite de Mme Christine Lagarde et M. Thierry Mariani à Jakarta. Soirée très privée, puisque même Irma que j'avais annoncé comme étant mon épouse n'a pas été autorisée à assister à l'évènement, celui-ci étant "strictement professionnel". 14 années qu'un ministre français n'avait pas mis le pied sur le sol indonésien, et le taux de croissance de 7% aidant, il était grand temps que la France revienne y placer ses billes.
 

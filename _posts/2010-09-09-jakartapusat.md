@@ -8,12 +8,12 @@ tags:
   - indonesia
   - jakarta
 ---
-![](assets/media/20100701-008.jpg)
+![[20100701-008.jpg|]]
 
-![](assets/media/20100701-010.jpg)
+![[20100701-010.jpg|]]
 
-![](assets/media/20100701-011.jpg)
+![[20100701-011.jpg|]]
 
-![](assets/media/20100701-014.jpg)
+![[20100701-014.jpg|]]
 
 Photos prises par Irma depuis le toit d'un building en construction dans le centre-ville de Jakarta.

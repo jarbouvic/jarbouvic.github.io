@@ -7,8 +7,8 @@ tags:
 - indonesia
 - jakarta
 ---
-![](assets/media/Life_is_hard_in_Bonatagphotosn/IMG00014-20101113-1128.jpg)
+![[IMG00014-20101113-1128.jpg|]]
 
-![](assets/media/Life_is_hard_in_Bonatagphotosn/IMG00015-20101113-1129.jpg)
+![[IMG00015-20101113-1129.jpg|]]
 
-![](assets/media/Life_is_hard_in_Bonatagphotosn/IMG00019-20101113-1132.jpg)
+![[IMG00019-20101113-1132.jpg|]]

@@ -11,9 +11,6 @@ author:
 
 # Build settings
 markdown: kramdown
-include:
-  - _pages
-  - _collections
 
 # Assets
 sass:
@@ -23,15 +20,13 @@ sass:
 # Gems
 plugins:
   - jekyll-feed
-  - jekyll-paginate
   - jekyll-seo-tag
-  - jekyll-wikirefs
   - jekyll-relative-links
   - jekyll-include-cache
+  - jekyll-wikirefs
 
 # Permalinks
 permalink: /:year-:month-:day/:title
-paginate: 5
 
 collections:
   collections:
@@ -41,6 +36,12 @@ defaults:
   -
     scope:
       path: ""
-      type: "collections" # a collection in your site, in plural form
+      type: "posts" 
     values:
-      layout: "post"
+      layout: "posts"
+  -
+    scope:
+      path: ""
+      type: "collections" 
+    values:
+      layout: "posts"
