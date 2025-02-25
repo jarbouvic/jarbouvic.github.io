@@ -11,6 +11,9 @@ author:
 
 # Build settings
 markdown: kramdown
+include:
+  - _pages
+  - _posts
 
 # Assets
 sass:
@@ -28,20 +31,34 @@ plugins:
 # Permalinks
 permalink: /:year-:month-:day/:title
 
-collections:
-  collections:
-    output: true
-
 defaults:
   -
     scope:
-      path: ""
-      type: "posts" 
+      path: "" # an empty string here means all files in the project
+      type: "posts"
     values:
       layout: "post"
   -
     scope:
-      path: ""
-      type: "collections" 
+      path: "blog" # an empty string here means all files in the project
+      type: "posts"
     values:
-      layout: "post"
+      category: "blog"
+  -
+    scope:
+      path: "read" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      category: "read"
+  -
+    scope:
+      path: "watched" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      category: "watched"
+  -
+    scope:
+      path: "done" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      category: "done"

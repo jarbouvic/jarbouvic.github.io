@@ -10,7 +10,8 @@ permalink: /collections/
   </div>
   <h3>A list of things I’ve read, watched, done.</h3>
   <div class="tags-item" id="Collections">
-    {% for item in site.collections %}
+    {% for item in site.posts %}
+    {% if item.categories contains "read" or post.categories contains "watched" or post.categories contains "done" %}
     <a class="tags-post" href="{{ item.url | prepend: site.baseurl }}">
       <div>
         <span class="tags-post-title">{{ item.title }} {{ item.rating }}</span>
@@ -23,6 +24,7 @@ permalink: /collections/
         </time>
       </span>
     </a>
+    {% endif %}
     {% endfor %}
   </div>
 </div>

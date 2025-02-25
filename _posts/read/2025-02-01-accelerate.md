@@ -1,7 +1,6 @@
 ---
 date: 2025-02-01
 title: Accelerate
-type: Read
 rating: ⭐️ ⭐️
 tags:
   - architecture

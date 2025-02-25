@@ -3,13 +3,14 @@ layout: default
 ---
 
 <div class="catalogue">
-  {% for post in site.collections %}
+  {% for post in site.posts %}
     {% if post.sticky %}
       {% include catalogue_item.html sticky='true' %}
     {% endif %}
   {% endfor %}
 
-  {% for post in site.collections %}
+  {% for post in site.posts %}
+  {% if post.categories contains "Blog" %}
   <div class="post">
     <div class="post-info">
       {% if post.date %}
